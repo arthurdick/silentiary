@@ -18,12 +18,14 @@ The copy command requires xsel linux program to be installed.
 Installing
 ======================================================================
 
-Install with pip:
+Install with pip::
 
-    $ pip3 install silentiary
+    pip3 install silentiary
 
 Usage
 ======================================================================
+
+Commands available::
 
     silentiary initialize
     silentiary list [<location>] [-r]
